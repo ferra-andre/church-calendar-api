@@ -224,7 +224,7 @@ Santa Francesca Romana, religiosa
 8 s : Immacolata Concezione della Beata Vergine Maria
 9 : San Juan Diego Cuauhtlatoatzin
 11 : San Damaso I, papa
-12 : ONostra Signora di Guadalupe
+12 : Nostra Signora di Guadalupe
 13 m R : Santa Lucia, vergine e martire
 14 m : San Giovanni della Croce, sacerdote e dottore della Chiesa
 21 : San Pietro Canisio, sacerdote e dottore della Chiesa
