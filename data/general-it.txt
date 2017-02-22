@@ -1,22 +1,21 @@
-# General Roman Calendar in English
-# source: https://en.wikipedia.org/wiki/General_Roman_Calendar
+# Calendario Romano Generale
 
 = 1
-2 m : Saints Basil the Great and Gregory Nazianzen, bishops and doctors
-3 : The Most Holy Name of Jesus
-7 : Saint Raymond of Penyafort, priest
-13 : Saint Hilary of Poitiers, bishop and doctor
-17 m : Saint Anthony of Egypt, abbot
-20 R : Saint Fabian, pope and martyr
-20 R : Saint Sebastian, martyr
-21 m R : Saint Agnes, virgin and martyr
-22 R : Saint Vincent, deacon and martyr
-24 m : Saint Francis de Sales, bishop and doctor
-25 f : The Conversion of Saint Paul, apostle
-26 m : Saints Timothy and Titus, bishops
-27 : Saint Angela Merici, virgin
-28 m : Saint Thomas Aquinas, priest and doctor
-31 m : Saint John Bosco, priest
+2 m : Santi Basilio Magno e Gregorio Nazianzeno, vescovi e dottori della Chiesa
+3 : Santissimo Nome di Gesù
+7 : San Raimondo di Peñafort, sacerdote
+13 : Sant'Ilario di Poitiers, vescovo e dottore della Chiesa
+17 m : Sant'Antonio, abate
+20 R : San Fabiano, papa e martire
+20 R : San Sebastiano, martire
+21 m R : Sant'Agnese, vergine e martire
+22 R : San Vincenzo, diacono e martire
+24 m : San Francesco di Sales, vescovo e dottore della Chiesa
+25 f : Conversione di San Paolo, apostolo
+26 m : Santi Timoteo e Tito, vescovi
+27 : Sant'Angela Merici, vergine
+28 m : San Tommaso d'Aquino, sacerdote e dottore della Chiesa
+31 m : San Giovanni Bosco, sacerdote
 
 = 2
 2 f2.5 : Presentation of the Lord
