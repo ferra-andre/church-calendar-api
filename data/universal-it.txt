@@ -37,7 +37,7 @@
 4 : San Casimiro
 7 m R : Sante Perpetua e Felicita, martiri
 8 : San Giovanni di Dio, religioso
-Santa Francesca Romana, religiosa
+9 : Santa Francesca Romana, religiosa
 17 : San Patrizio, vescovo
 18 : San Cirillo di Gerusalemme, vescovo e dottore della Chiesa
 19 s : San Giuseppe, sposo della Beata Vergine Maria
