@@ -9,6 +9,6 @@ general-it: &default
   title: Calendario Romano
   language: it
   files:
-    - general-it.txt
+    - universal-it.txt
 default:
   <<: *default
